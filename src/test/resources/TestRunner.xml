@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="APITestingUsingRestAssured_TASK
+" verbose="1" >
+    <test name="APITestingUsingRestAssured_TASK">
+        <classes>
+            <class name="com.petroapp.hiring.APITestingUsingRestAssured"/>
+        </classes>
+    </test>
+</suite>
